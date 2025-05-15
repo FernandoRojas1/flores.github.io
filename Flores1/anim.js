@@ -21,15 +21,15 @@ var lyricsData = [
   { text: "Al igual que una estrella", time: 128 },
   { text: "Todos los recuerdos quedaron atrapados", time: 133 },
   { text: "Estamos cansados del pasado", time: 139 },
-  { text: "Es dificil de explicar, quiero escapar", time: 144 },
+  { text: "Es dificil de explicar", time: 144 },
   { text: "Si en este universo ries", time: 150 },
   { text: "crearas un nuevo mundo", time: 159 },
   { text: "Donde podras brillar", time: 163 },
-  { text: "Y el  pasado no mas", time: 171 },
+  { text: "Y el  pasado ", time: 171 },
   { text: " No siento temor", time: 175 },
   { text: "Quiero conocerte mejor ", time: 180 },
   { text: "Pero llega el momento de despedirnos", time: 185 },
-  {text: "Pero Te amo cariño", time: 190 },
+  {text: "Pero Te amo mi estrella", time: 190 },
 ];
 
 
